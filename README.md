@@ -1,10 +1,7 @@
 # Euclidean-algorithm
 유클리드 재귀, 반복적 최대공약수 알고리즘
+
 //재귀적 알고리즘//
-
-
-
-
 
 #include <stdio.h>
 
@@ -37,6 +34,7 @@ int main(void)
 }
 
 //반복적 알고리즘//
+
 #include <stdio.h>
 
 int gcd(int x, int y)
