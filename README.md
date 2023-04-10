@@ -3,11 +3,6 @@
 
 //재귀적 알고리즘//
 
-
-
-
-
-
 #include <stdio.h>
 
 int gcd(int x, int y)
